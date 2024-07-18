@@ -26,7 +26,7 @@ const FrameComponent = ({ className = "" }) => {
             </div>
           </div>
           <div className="flex-1 relative text-lg inline-block min-w-[210px] max-w-full">
-            Connect with Us: Let's Discuss Your Digital Marketing Needs
+            Connect with Us: Let us Discuss Your Digital Marketing Needs
           </div>
         </div>
         <div className="self-stretch rounded-26xl bg-grey flex flex-col items-start justify-start pt-[60px] px-[100px] pb-20 box-border relative gap-[40px] max-w-full text-lg mq800:gap-[20px] mq800:pt-[39px] mq800:px-[50px] mq800:pb-[52px] mq800:box-border mq450:pt-[25px] mq450:px-5 mq450:pb-[34px] mq450:box-border">
@@ -54,10 +54,10 @@ const FrameComponent = ({ className = "" }) => {
           </div>
           <div className="w-[556px] flex flex-col items-start justify-start gap-[25px] max-w-full text-base">
             <Field name1="Name" namePlaceholder="Name" />
-            <Field name1="Email*" namePlaceholder="Email" />
+            <Field name1="Email" namePlaceholder="Email" />
             <div className="self-stretch flex flex-col items-start justify-start gap-[5px]">
               <div className="relative leading-[28px] inline-block min-w-[78px]">
-                Message*
+                Message
               </div>
               <textarea
                 className="bg-white h-[190px] w-auto [outline:none] self-stretch rounded-sm box-border overflow-hidden shrink-0 flex flex-row items-start justify-start py-[18px] px-[30px] font-p text-lg text-gray border-[1px] border-solid border-black"
