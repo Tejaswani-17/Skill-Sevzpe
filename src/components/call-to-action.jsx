@@ -9,7 +9,7 @@ const CallToAction = ({ className = "" }) => {
         <div className="w-[1240px] rounded-26xl bg-grey flex flex-row items-center justify-start p-[60px] box-border max-w-full mq800:gap-[137px] mq800:pl-[30px] mq800:pr-[30px] mq800:box-border mq450:gap-[69px]">
           <div className="w-[500px] flex flex-col items-start justify-start gap-[26px] max-w-full">
             <h3 className="m-0 self-stretch relative text-inherit font-medium font-inherit mq800:text-5xl mq450:text-lg">
-              Let’s make things happen
+              Lets make things happen
             </h3>
             <div className="self-stretch relative text-lg">
               Contact us today to learn more about how our digital marketing
